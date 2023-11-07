@@ -3,7 +3,7 @@ import './App.css';
 import LoginPage from './pages/LoginPage';
 import { useState } from 'react';
 
-function App() {
+function App() { 
   
   return (
     <div className="App">
